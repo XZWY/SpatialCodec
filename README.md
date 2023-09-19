@@ -21,6 +21,7 @@ python ./MIMO_SPATIAL_CODEC/mimo_inference.py --input_dir $input_dir --ckpt_dir 
 The checkpoints can be accessed here: https://drive.google.com/drive/folders/1iHVpJj8HieIOAZYCUyYFihuFxeCara1u?usp=sharing
 
 
+
 ## Citations
 If you use our **SpatialCodec** for your research, please consider citing
 
